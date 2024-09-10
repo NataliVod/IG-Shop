@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_сolor">#4FDAD7</color>
+    <color name="on_primary_сolor">#ABB4E7</color>
+    <color name="secondary_сolor">#70E3D6</color>
+    <color name="on_secondary_сolor">#ABB4E7</color>
+    <color name="surface_сolor"> #FFFFFF</color>
+    <color name="on_surface_сolor">#E5FDFB</color>
+    <color name="background_сolor">#2E4552</color>
+    <color name="on_background_сolor">#CACACA</color>
+    <color name="background_logo">#2E4552</color>
+</resources>
